@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm **Andrew**, a Computer Science student from **Ukraine** currently studying at the **Slovak University of Technology**. Here’s a bit about what I do ⚡:
+I'm **Andrew**, a Computer Science student from **Ukraine** currently studying at the **Slovak University of Technology**.
+Here’s a bit about what I do ⚡:
 
 - 🔭 I Work on Frontend and backend projects using **Next.js** and **MongoDB** (e.g., **elf**, **portfolio**).
 - 🎮 I love recreating popular games like **Reversi**, **Chess**, and **Tetris**.
