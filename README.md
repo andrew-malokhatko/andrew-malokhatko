@@ -1,14 +1,11 @@
 # Hi there 👋
 
 I'm **Andrew**, a Computer Science student from **Ukraine** currently studying at the **Slovak University of Technology**.
-Here’s a bit about what I do ⚡:
+Here’s some more info about me:
 
-- 🎮 I love recreating popular games like **Reversi**, **Chess**, and **Tetris**.
-- 🧩 I love to tackle LeetCode problems in my free time (80+ problems solved so far).
-- 📄 I recently completed an article on **Collaborative Recommendation Systems**.
+- I mainly use C++ paired with CMake for my projects (sometimes java).
+- I have solved over 100 leetcode problems.
+- I love programming games.
+- I find low-level code intersting (e.g Operating systems)
 
-## 🔍 Interests
-- 🤖 Building AIs for various games
-- 🌐 Creating fun websites
-- Rock climbing
- 
+Check out my best projects: royale, chess-engine and tower-defense.
