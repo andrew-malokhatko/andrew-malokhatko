@@ -4,7 +4,7 @@ I'm **Andrew**, a Computer Science student from **Ukraine** currently studying a
 Here’s some more info about me:
 
 - I mainly use **C++** paired with **CMake** for my projects and occasionlay **Java**.
-- I have solved **140+ problems** on Leetcode .
+- I have solved **150 problems** on Leetcode .
 - I love **game development**.
 - I am enthusiastic about **low-level programming**, especially operating systems.
 
